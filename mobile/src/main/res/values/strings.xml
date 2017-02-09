@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlcoWatch</string>
+    <string name="invalid_credentials">The form\'s values are invalid.</string>
+</resources>

@@ -1,0 +1,27 @@
+@relation alcowatch_features
+
+@attribute numSteps numeric
+@attribute cadence numeric
+@attribute skew numeric
+@attribute kurtosis numeric
+@attribute gaitVelocity numeric
+@attribute residualStepLength numeric
+@attribute ratio numeric
+@attribute residualStepTime numeric
+@attribute bandpower numeric
+@attribute signalNoiseRatio numeric
+@attribute totalHarmonicDistortion numeric
+@attribute xzSwayArea numeric
+@attribute xySwayArea numeric
+@attribute yzSwayArea numeric
+@attribute swayVolume numeric
+@attribute height numeric
+@attribute weight numeric
+@attribute age numeric
+@attribute gender {0,1,2}
+@attribute pants {0,1,2,3}
+@attribute class {no_goggles, green_goggles, black_goggles, red_goggles, orange_goggles}
+
+@data
+7,88087248.885950,0.404450,2.881368,123322148.440330,-27.787247,NaN,184302920.008984,31.577572,2.396982,-1.523990,4.043583,1.347157,1.937639,602.557148,1.498000e+02,108.000000,18,0,3
+
